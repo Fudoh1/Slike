@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Before starting app you need to run comman 
 
-npm i
+### `npm i`
 
 In the project directory, you can run:
 
